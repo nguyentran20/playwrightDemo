@@ -1,2 +1,0 @@
-# playwrightDemo
-Practice, improve, showcase
